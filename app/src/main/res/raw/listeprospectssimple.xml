@@ -1,0 +1,98 @@
+<visites>
+  
+  <visite>
+    <prospect>Riera Alain</prospect>
+    <adresse>14 bd Maglioli 20000 AJACCIO</adresse>
+    <produit>
+      <reference>123456</reference>
+	  <nom>Lexomil</nom>
+      <prix>2.67</prix>
+    </produit>
+    <produit>
+	  <reference>223344</reference>
+      <nom>Doliprane</nom>
+      <prix>1.12</prix>
+    </produit>
+  </visite>
+  
+  <visite>
+    <prospect>Eiden Pierre</prospect>
+    <adresse>14 r Doct Del Pellegrino 20090 AJACCIO</adresse>
+    <produit>
+      <reference>998877</reference>
+	  <nom>Lysopaine</nom>
+      <prix>2.98</prix>
+    </produit>
+  </visite>
+  
+  <visite>
+    <prospect>Ferrandi Frédéric</prospect>
+    <adresse>20 cours Napoléon 20000 AJACCIO</adresse>
+    <produit>
+      <reference>000023</reference>
+	  <nom>Spasfon</nom>
+      <prix>1.37</prix>
+    </produit>
+	<produit>
+      <reference>000024</reference>
+	  <nom>Vogalène</nom>
+      <prix>2.91</prix>
+    </produit>
+    <produit>
+      <reference>000025</reference>
+	  <nom>Motilium</nom>
+      <prix>2.89</prix>
+    </produit>
+  </visite>  
+  
+  <visite>
+    <prospect>Ferrara Jean-Jacques</prospect>
+    <adresse>2 cours Grandval 20000 AJACCIO</adresse>
+    <produit>
+      <reference>100734</reference>
+	  <nom>Eludril</nom>
+      <prix>2.35</prix>
+    </produit>
+  </visite>  
+  
+  <visite>
+    <prospect>Flori Alexandre</prospect>
+    <adresse>résid Acqualonga 20167 AJACCIO</adresse>
+    <produit>
+      <reference>550736</reference>
+	  <nom>Radiosélectan</nom>
+      <prix>16.88</prix>
+    </produit>
+  </visite> 
+  
+  <visite>
+    <prospect>Franceschini Antoine</prospect>
+    <adresse>14 r Doct Del Pellegrino 20090 AJACCIO</adresse>
+    <produit>
+      <reference>768900</reference>
+	  <nom>Clamoxyl</nom>
+      <prix>1.08</prix>
+    </produit>
+  </visite> 
+  
+  <visite>
+    <prospect>Franchini Marc</prospect>
+    <adresse>14 r Doct Del Pellegrino 20090 AJACCIO</adresse>
+    <produit>
+      <reference>910345</reference>
+	  <nom>Opticron</nom>
+      <prix>3.32</prix>
+    </produit>
+  </visite>
+
+  <visite>
+    <prospect>Le Breton Geneviève</prospect>
+    <adresse>28 bd Pascal Rossini 20000 AJACCIO</adresse>
+    <produit>
+      <reference>456790</reference>
+	  <nom>Emplapatch</nom>
+      <prix>2.68</prix>
+    </produit>
+  </visite>   
+  
+</visites>
