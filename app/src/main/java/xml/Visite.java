@@ -1,8 +1,15 @@
 package xml;
 
+import java.util.List;
+
 public class Visite {
+
+	private String prospect;
+	private String adresse;
+	private List<String> produits;
+	private String reference;
 	private String nom;
-	private String responsable;
+	private String prix;
 	
 	public Visite() {
 		super();
@@ -10,11 +17,16 @@ public class Visite {
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
-	public void setResponsable(String responsable) {
-		this.responsable = responsable;
+	public void setProspect(String prospect) {
+		this.prospect = prospect;
 	}
+
+    public void setAdresse(String adresse) {
+        this.adresse = adresse;
+    }
+
 	public String toString(){
-		return "service : "+nom+" => responsable : "+responsable;
+		return "visite : "+ adresse + " liste des produits : " + nom ;
 	}
 	
 }

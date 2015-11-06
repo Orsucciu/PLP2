@@ -38,7 +38,7 @@ public class MaSaxHandler extends DefaultHandler {
 	        }else if (localName.equals("nom")){
 	        	visite.setNom(valeur);
 	        }else if (localName.equals("responsable")){
-	        	visite.setResponsable(valeur);
+	        	visite.setProspect(valeur);
 	        }
 	    }
 	   public List<Visite> getLesServices() {
